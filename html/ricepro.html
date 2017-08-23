@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <style>
+        .category, svg {
+            font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script>
+        var xData = ["Karnataka","Kerala","AndhraPradesh","TamilNadu"];
+        var margin = { top: 20, right: 50, bottom: 140, left: 70 },
+
+            width = 1600 - margin.left - margin.right,
+
+            height = 1000 - margin.top - margin.bottom;
+
+        var x = d3.scale.ordinal()
+            .rangeRoundBands([0, width], .35);
+        var y = d3.scale.linear()
+            .rangeRound([height, 0]);
+        var color = d3.scale.category20();
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom");
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .orient("left")
+            .ticks(10);
+       //var color = d3.scale.ordinal()
+         //  .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"])
+        var svg = d3.select("body").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        d3.json("../json/Rice.json", function (error, data) {
+ 
+            data.forEach(function (d) {
+                d.Year = d.Year;
+                d.Karnataka = +d.Karnataka;
+                d.Kerala = +d.Kerala;
+                d.TamilNadu = +d.TamilNadu;
+                d.AndhraPradesh = +d.AndhraPradesh;
+               
+               // d.Total_literate_Persons = +d.Total_literate_Persons;
+            });
+            var dataIntermediate = xData.map(function (c) {
+                return data.map(function (d) {
+                    return { x: d.Year, y: d[c] };
+                });
+            });
+            var dataStackLayout = d3.layout.stack()(dataIntermediate);
+            x.domain(dataStackLayout[0].map(function (d) {
+                return d.x;
+            }));
+            y.domain([0, d3.max(dataStackLayout[dataStackLayout.length - 1],
+                    function (d) { return d.y0 + d.y; })
+            ]).nice();
+            var layer = svg.selectAll(".stack")
+                .data(dataStackLayout)
+                .enter().append("g")
+                .attr("class", "stack")
+                .style("fill", function (d, i) {
+                    return color(i);
+                });
+            layer.selectAll("rect")
+                .data(function (d) {
+                    return d;
+                })
+                .enter().append("rect")
+                .attr("x", function (d) {
+                    return x(d.x);
+                })
+                .attr("y", function (d) {
+                    return y(d.y + d.y0);
+                })
+                .attr("height", function (d) {
+                    return y(d.y0) - y(d.y + d.y0);
+                })
+                .attr("width", x.rangeBand());
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(xAxis)
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", "-.55em")
+                .attr("transform", "rotate(-90)");
+            svg.append("g")
+                .attr("class", "axis")
+                .call(yAxis);
+        });
+    </script>
+</body>
+</html>
+

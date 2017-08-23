@@ -1,0 +1,1010 @@
+[
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Uttar Pradesh",
+    "Production": 30300
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Punjab",
+    "Production": 16110
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume West Bengal",
+    "Production": 14960
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Uttar Pradesh",
+    "Production": 14410
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Madhya Pradesh",
+    "Production": 13130
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Punjab",
+    "Production": 11370
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Haryana",
+    "Production": 11120
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Andhra Pradesh",
+    "Production": 10910
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Rajasthan",
+    "Production": 8950
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Orissa",
+    "Production": 7640
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Bihar",
+    "Production": 7340
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Rajasthan",
+    "Production": 6910
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Chhattisgarh",
+    "Production": 6610
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Karnataka",
+    "Production": 6150
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Andhra Pradesh",
+    "Production": 5440
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Bihar",
+    "Production": 5380
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield West Bengal",
+    "Production": 5250
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Punjab",
+    "Production": 4573
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Assam",
+    "Production": 4560
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Haryana",
+    "Production": 4452
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Tamil Nadu",
+    "Production": 4400
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Maharashtra",
+    "Production": 4360
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Punjab",
+    "Production": 4258
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Punjab",
+    "Production": 3989
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Haryana",
+    "Production": 3980
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Andhra Pradesh",
+    "Production": 3858
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Haryana",
+    "Production": 3698
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Uttar Pradesh",
+    "Production": 3690
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Punjab",
+    "Production": 3533
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Bihar",
+    "Production": 3292
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Karnataka",
+    "Production": 3280
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Haryana",
+    "Production": 3262
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Rajasthan",
+    "Production": 3175
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Gujarat",
+    "Production": 3140
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Andhra Pradesh",
+    "Production": 3126
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield",
+    "Production": 3117
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Uttar Pradesh",
+    "Production": 3113
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Maharashtra",
+    "Production": 3040
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Jharkhand",
+    "Production": 3030
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Gujarat",
+    "Production": 2986
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield West Bengal",
+    "Production": 2817
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Tamil Nadu",
+    "Production": 2785
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Madhya Pradesh",
+    "Production": 2780
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield West Bengal",
+    "Production": 2755
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield West Bengal",
+    "Production": 2711
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Kerala",
+    "Production": 2650
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Andhra Pradesh",
+    "Production": 2616
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Karnataka",
+    "Production": 2583
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Uttar Pradesh",
+    "Production": 2547
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Madhya Pradesh",
+    "Production": 2530
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Madhya Pradesh",
+    "Production": 2478
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield",
+    "Production": 2462
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Uttar Pradesh",
+    "Production": 2459
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Bihar",
+    "Production": 2427
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Bihar",
+    "Production": 2370
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Tamil Nadu",
+    "Production": 2357
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Uttaranchal",
+    "Production": 2341
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Bihar",
+    "Production": 2329
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Bihar",
+    "Production": 2258
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Jharkland",
+    "Production": 2244
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Tamil Nadu",
+    "Production": 2175
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Himachal Pradesh",
+    "Production": 2161
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Gujarat",
+    "Production": 2143
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Gujarat",
+    "Production": 2070
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Assam",
+    "Production": 2036
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Gujarat",
+    "Production": 1990
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Maharashtra",
+    "Production": 1961
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Uttaranchal",
+    "Production": 1939
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Haryana",
+    "Production": 1923
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Orissa",
+    "Production": 1896
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Assam",
+    "Production": 1889
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Jharkhand",
+    "Production": 1861
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Uttar Pradesh",
+    "Production": 1845
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Chhattisgarh",
+    "Production": 1749
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Jharkhand",
+    "Production": 1716
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Karnataka",
+    "Production": 1713
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Orissa",
+    "Production": 1658
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Madhya Pradesh",
+    "Production": 1657
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Gujarat",
+    "Production": 1656
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Tamil Nadu",
+    "Production": 1650
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Jharkhand",
+    "Production": 1640
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield",
+    "Production": 1626
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Orissa",
+    "Production": 1611
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Jammu and Kashmir",
+    "Production": 1543
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Madhya Pradesh",
+    "Production": 1543
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Himachal Pradesh",
+    "Production": 1514
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Chhattisgarh",
+    "Production": 1514
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Gujarat",
+    "Production": 1500
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Rajasthan",
+    "Production": 1482
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Yield Madhya Pradesh",
+    "Production": 1479
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Maharashtra",
+    "Production": 1473
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Karnataka",
+    "Production": 1472
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Jammu and Kashmir",
+    "Production": 1404
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Uttaranchal",
+    "Production": 1360
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Assam",
+    "Production": 1188
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Rajasthan",
+    "Production": 1156
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Yield Maharashtra",
+    "Production": 1057
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Haryana",
+    "Production": 1000
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Maharashtra",
+    "Production": 930
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Yield Chhattisgarh",
+    "Production": 923
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume West Bengal",
+    "Production": 910
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Maharashtra",
+    "Production": 880
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Uttaranchal",
+    "Production": 840
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Yield Karnataka",
+    "Production": 735
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Himachal Pradesh",
+    "Production": 670
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume West Bengal",
+    "Production": 630
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Uttaranchal",
+    "Production": 581
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Jammu and Kashmir",
+    "Production": 545.6
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Himachal Pradesh",
+    "Production": 540
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Jammu and Kashmir",
+    "Production": 540
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Punjab",
+    "Production": 530
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Kerala",
+    "Production": 530
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Jammu and Kashmir",
+    "Production": 420
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Jharkhand",
+    "Production": 410
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Uttaranchal",
+    "Production": 340
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Orissa",
+    "Production": 290
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Jharkhand",
+    "Production": 270
+  },
+  {
+    "Type": "Agricultural Production Foodgrains",
+    "Production": 257.13
+  },
+  {
+    "Type": "Agricultural Production Major Crops Achievements Foodgrains",
+    "Production": 255.36
+  },
+  {
+    "Type": "Agricultural Production Major Crops Target Foodgrains",
+    "Production": 254.24
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Chhattisgarh",
+    "Production": 240
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Cereals",
+    "Production": 238.79
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Rajasthan",
+    "Production": 222.5
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Karnataka",
+    "Production": 170
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Chhattisgarh",
+    "Production": 141.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume Himachal Pradesh",
+    "Production": 134.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rabi",
+    "Production": 129.06
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Kharif",
+    "Production": 128.07
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Cereals Kharif",
+    "Production": 122.16
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Cereals Rabi",
+    "Production": 116.63
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice",
+    "Production": 105.24
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Volume",
+    "Production": 104.4
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Rabi",
+    "Production": 93.51
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume",
+    "Production": 92.46
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Kharif",
+    "Production": 92.37
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Assam",
+    "Production": 60
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Uttar Pradesh",
+    "Production": 50.84
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area",
+    "Production": 42.8
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume",
+    "Production": 40.08
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals",
+    "Production": 40.04
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area",
+    "Production": 30
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Kharif",
+    "Production": 29.79
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Punjab",
+    "Production": 28.07
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area",
+    "Production": 24.8
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Madhya Pradesh",
+    "Production": 23.42
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Maize",
+    "Production": 22.26
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Uttar Pradesh",
+    "Production": 19.96
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Pulses",
+    "Production": 18.34
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Rajasthan",
+    "Production": 18.03
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Andhra Pradesh",
+    "Production": 17.93
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Assam",
+    "Production": 17
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume West Bengal",
+    "Production": 16.51
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Haryana",
+    "Production": 16.22
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Maize Kharif",
+    "Production": 16.19
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Bihar",
+    "Production": 15.62
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Madhya Pradesh",
+    "Production": 14.13
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Rabi",
+    "Production": 12.87
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Pulses Rabi",
+    "Production": 12.43
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Rajasthan",
+    "Production": 12.17
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Karnataka",
+    "Production": 10.93
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Maharashtra",
+    "Production": 10.69
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Rabi",
+    "Production": 10.25
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Maharashtra",
+    "Production": 10.11
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Uttar Pradesh",
+    "Production": 9.73
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Gram Rabi",
+    "Production": 8.83
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Bajra Kharif",
+    "Production": 8.74
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Orissa",
+    "Production": 8.35
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Chhattisgarh",
+    "Production": 7.63
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Karnataka",
+    "Production": 7.42
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Gujarat",
+    "Production": 7.32
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Andhra Pradesh",
+    "Production": 6.85
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Bihar",
+    "Production": 6.71
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Others",
+    "Production": 6.64
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Punjab",
+    "Production": 6.59
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Tamil Nadu",
+    "Production": 6.29
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area West Bengal",
+    "Production": 6.09
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Maize Rabi",
+    "Production": 6.06
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Rajasthan",
+    "Production": 5.98
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Pulses Kharif",
+    "Production": 5.91
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Uttar Pradesh",
+    "Production": 5.86
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area West Bengal",
+    "Production": 5.43
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Madhya Pradesh",
+    "Production": 5.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Jowar",
+    "Production": 5.28
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Orissa",
+    "Production": 5.04
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Chhattisgarh",
+    "Production": 5.04
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Assam",
+    "Production": 4.76
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Maharashtra",
+    "Production": 4.69
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Haryana",
+    "Production": 4.39
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Jharkhand",
+    "Production": 4.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Orissa",
+    "Production": 4.03
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Chhattisgarh",
+    "Production": 3.78
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Gujarat",
+    "Production": 3.68
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Karnataka",
+    "Production": 3.59
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Punjab",
+    "Production": 3.52
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Andhra Pradesh",
+    "Production": 3.49
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Others",
+    "Production": 3.33
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Bihar",
+    "Production": 3.25
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Tur Kharif",
+    "Production": 3.02
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Tamil Nadu",
+    "Production": 2.89
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Punjab",
+    "Production": 2.85
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Jowar Kharif",
+    "Production": 2.84
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Rajasthan",
+    "Production": 2.82
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Other Kharif Pulses Rabi",
+    "Production": 2.73
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Assam",
+    "Production": 2.52
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Haryana",
+    "Production": 2.5
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Jowar Rabi",
+    "Production": 2.44
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Jharkhand",
+    "Production": 2.31
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Assam",
+    "Production": 2.24
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Bihar",
+    "Production": 2.22
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Volume Orissa",
+    "Production": 2.1
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Uttar Pradesh",
+    "Production": 2
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Madhya Pradesh",
+    "Production": 1.88
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Volume Uttaranchal",
+    "Production": 1.8
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Barley Rabi",
+    "Production": 1.75
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Others",
+    "Production": 1.73
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Madhya Pradesh",
+    "Production": 1.64
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Tamil Nadu",
+    "Production": 1.58
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Ragi Kharif",
+    "Production": 1.57
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Maharashtra",
+    "Production": 1.55
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Andhra Pradesh",
+    "Production": 1.41
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Jharkland",
+    "Production": 1.35
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Karnataka",
+    "Production": 1.27
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Gujarat",
+    "Production": 1.25
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Haryana",
+    "Production": 1.22
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Gujarat",
+    "Production": 1.05
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Area Uttaranchal",
+    "Production": 0.93
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Bihar",
+    "Production": 0.72
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Gujarat",
+    "Production": 0.7
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Tamil Nadu",
+    "Production": 0.7
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Other Kharif Pulses Kharif",
+    "Production": 0.62
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Maharashtra",
+    "Production": 0.59
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Haryana",
+    "Production": 0.52
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Small Millets Kharif",
+    "Production": 0.44
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Himachal Pradesh",
+    "Production": 0.36
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Uttaranchal",
+    "Production": 0.36
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Jammu and Kashmir",
+    "Production": 0.35
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area West Bengal",
+    "Production": 0.32
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Himachal Pradesh",
+    "Production": 0.31
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Jammu and Kashmir",
+    "Production": 0.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Volume Kerala",
+    "Production": 0.3
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Others",
+    "Production": 0.27
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Chhattisgarh",
+    "Production": 0.26
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Uttaranchal",
+    "Production": 0.25
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Jharkhand",
+    "Production": 0.25
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Karnataka",
+    "Production": 0.23
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Rice Area Kerala",
+    "Production": 0.2
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Orissa",
+    "Production": 0.18
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Jharkhand",
+    "Production": 0.16
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area Punjab",
+    "Production": 0.15
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Others",
+    "Production": 0.14
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Coarse Cereals Area West Bengal",
+    "Production": 0.12
+  },
+  {
+    "Type": "Agricultural Production Foodgrains Wheat Area Assam",
+    "Production": 0.05
+  }
+]

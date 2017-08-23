@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "Agricultural Production Major Crops Target Oilseeds",
+    "Production": 33.5
+  },
+  {
+    "Type": "Agricultural Production Major Crops Achievements Oilseeds",
+    "Production": 31.01
+  },
+  {
+    "Type": "Agricultural Production Oilseeds",
+    "Production": 30.943
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Kharif",
+    "Production": 20.791
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Soyabean Kharif",
+    "Production": 14.666
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Rabi",
+    "Production": 10.152
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Rapeseed and Mustard Rabi",
+    "Production": 8.029
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Groundnut",
+    "Production": 4.695
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Groundnut Kharif",
+    "Production": 3.187
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Castorseed Kharif",
+    "Production": 1.964
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Groundnut Rabi",
+    "Production": 1.508
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Sesamun Kharif",
+    "Production": 0.685
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Sunflower",
+    "Production": 0.544
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Sunflower Rabi",
+    "Production": 0.357
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Sunflower Kharif",
+    "Production": 0.187
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Linseed Rabi",
+    "Production": 0.149
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Safflower Rabi",
+    "Production": 0.109
+  },
+  {
+    "Type": "Agricultural Production Oilseeds Nigerseed Kharif",
+    "Production": 0.102
+  }
+]
